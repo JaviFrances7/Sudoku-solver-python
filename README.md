@@ -24,3 +24,14 @@ Aplicación gráfica desarrollada en Python que resuelve automáticamente un Sud
 1. Instala las dependencias:
 ```bash
 pip install pygame
+```
+
+---
+
+**👤 Autor**
+
+Proyecto desarrollado por Javier Frances
+
+GitHub: JaviFrances7
+
+LinkedIn: https://es.linkedin.com/in/javier-frances-sanz
